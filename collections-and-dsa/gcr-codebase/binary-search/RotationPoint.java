@@ -16,7 +16,7 @@ public class RotationPoint {
             }
         }
 
-        return left;   // Rotation point ka index
+        return left;    
     }
 
     public static void main(String[] args) {
